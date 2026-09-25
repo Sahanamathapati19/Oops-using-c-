@@ -39,6 +39,7 @@ To strengthen my understanding of object-oriented programming through hands-on C
 | Name | Sahana S Mathapati |
 | Roll No. | 552 |
 | Division | E |
+| USN | 01FE23BEC286 |
 | Semester | VII |
 | University | KLE Technological University |
 
