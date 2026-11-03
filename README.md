@@ -15,7 +15,8 @@ The programs cover fundamental C++ concepts and object-oriented programming prin
 | 3 | Static Data Members and Member Functions |
 | 4 | Friend Functions |
 | 5 | Inheritance |
-
+| 6 | Polymorphism |
+| 7 | Exception Handling |
 ---
 
 ## 💻 Language and Tools
